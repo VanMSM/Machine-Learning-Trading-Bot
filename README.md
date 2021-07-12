@@ -16,13 +16,13 @@ The speed of these transactions gave the firm a competitive advantage early on. 
 
 ## Project Sections
 
-### Baseline Performance
+### 1. Baseline Performance
 
-### Baseline Trading Algorithm
+### 2. Baseline Trading Algorithm
 
-### New Machine Learning Classifier 
+### 3. New Machine Learning Classifier 
 
-### Evaluation Report:
+### 4. Evaluation Report:
 
   #### BASE MODEL PLOT
 
