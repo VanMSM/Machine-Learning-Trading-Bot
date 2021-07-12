@@ -34,20 +34,19 @@ NEW MACHINE LEARNING MODEL PLOT
 
 Analysis:
 
-Based on the information, the base model performs better as it shows a higher accuracy score.
+* Did this new model perform better or worse than the provided baseline model? The Base model performs better than the Logistic Regression Model since it has a higher accuracy score.
 
+* Did this new model perform better or worse than your tuned trading algorithm? The new model performs worse than the base model.
 
-QUESTIONS:
-
-*What impact resulted from increasing or decreasing the training window?
+* What impact resulted from increasing or decreasing the training window?
 
 ANSWER: Increasing the training window from 3 months to 8 months impacted the accuracy of the algprithm.
 
-*What impact resulted from increasing or decreasing either or both of the SMA windows?
+* What impact resulted from increasing or decreasing either or both of the SMA windows?
 
 ANSWER: Upon increasing the SMA short window from 4 to 50, the macro avg accuracy score dropped from .82 to .31 and the weighted average from .77 to .38  
 
-*Choose the set of parameters that best improved the trading algorithm returns.
+* Choose the set of parameters that best improved the trading algorithm returns.
 
 For the SVM Model, it performs better with SMA Windows of 4 and 100 days and training window of 3 months
 
