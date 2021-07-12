@@ -36,19 +36,19 @@ The speed of these transactions gave the firm a competitive advantage early on. 
 
 * Did this new model perform better or worse than the provided baseline model? 
  
- ANSWER: The Base model performs better than the Logistic Regression Model since it has a higher accuracy score.
+   ANSWER: The Base model performs better than the Logistic Regression Model since it has a higher accuracy score.
 
 * Did this new model perform better or worse than your tuned trading algorithm? 
  
- ANSWER: The new model performs worse than the base model.
+   ANSWER: The new model performs worse than the base model.
 
 * What impact resulted from increasing or decreasing the training window?
 
-  ANSWER: Increasing the training window from 3 months to 8 months impacted the accuracy of the algprithm.
+   ANSWER: Increasing the training window from 3 months to 8 months impacted the accuracy of the algprithm.
 
 * What impact resulted from increasing or decreasing either or both of the SMA windows?
 
-  ANSWER: Upon increasing the SMA short window from 4 to 50, the macro avg accuracy score dropped from .82 to .31 and the weighted average from .77 to .38  
+   ANSWER: Upon increasing the SMA short window from 4 to 50, the macro avg accuracy score dropped from .82 to .31 and the weighted average from .77 to .38  
 
 * Choose the set of parameters that best improved the trading algorithm returns.
 
