@@ -11,6 +11,7 @@ The speed of these transactions gave the firm a competitive advantage early on. 
 
 
 
+
 ---
 
 ## Project Sections
@@ -22,6 +23,41 @@ The speed of these transactions gave the firm a competitive advantage early on. 
 * New Machine Learning Classifier
 
 * Evaluation Report
+
+BASE MODEL PLOT:
+
+<img width="433" alt="Screen Shot 2021-07-11 at 7 25 31 PM" src="https://user-images.githubusercontent.com/80144026/125224545-ad891480-e282-11eb-8b21-af42760801ab.png">
+
+NEW MACHINE LEARNING MODEL PLOT
+
+<img width="413" alt="Screen Shot 2021-07-11 at 7 31 22 PM" src="https://user-images.githubusercontent.com/80144026/125224562-b679e600-e282-11eb-8288-0435cf97f9ae.png">
+
+Analysis:
+
+Based on the information, the base model performs better as it shows a higher accuracy score.
+
+
+QUESTIONS:
+
+*What impact resulted from increasing or decreasing the training window?
+
+ANSWER: Increasing the training window from 3 months to 8 months impacted the accuracy of the algprithm.
+
+*What impact resulted from increasing or decreasing either or both of the SMA windows?
+
+ANSWER: Upon increasing the SMA short window from 4 to 50, the macro avg accuracy score dropped from .82 to .31 and the weighted average from .77 to .38  
+
+*Choose the set of parameters that best improved the trading algorithm returns.
+
+For the SVM Model, it performs better with SMA Windows of 4 and 100 days and training window of 3 months
+
+<img width="589" alt="Screen Shot 2021-07-11 at 8 29 30 PM" src="https://user-images.githubusercontent.com/80144026/125226948-d7dcd100-e286-11eb-93f4-73d9dcdd8b0d.png">
+
+For the Logistic Regression, the trading algorithm perfoms better with SMA Windows of 4 and 100 and a longer training window, in this case I used 8 months.
+
+<img width="558" alt="Screen Shot 2021-07-11 at 8 34 10 PM" src="https://user-images.githubusercontent.com/80144026/125227253-67827f80-e287-11eb-96cf-50bb006f20c8.png">
+
+<img width="508" alt="Screen Shot 2021-07-11 at 8 34 17 PM" src="https://user-images.githubusercontent.com/80144026/125227263-6b160680-e287-11eb-99a9-180884847ddc.png">
 
 
 ---
