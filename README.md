@@ -34,25 +34,29 @@ NEW MACHINE LEARNING MODEL PLOT
 
 Analysis:
 
-* Did this new model perform better or worse than the provided baseline model? The Base model performs better than the Logistic Regression Model since it has a higher accuracy score.
+* Did this new model perform better or worse than the provided baseline model? 
+ 
+ ANSWER: The Base model performs better than the Logistic Regression Model since it has a higher accuracy score.
 
-* Did this new model perform better or worse than your tuned trading algorithm? The new model performs worse than the base model.
+* Did this new model perform better or worse than your tuned trading algorithm? 
+ 
+ ANSWER: The new model performs worse than the base model.
 
 * What impact resulted from increasing or decreasing the training window?
 
-ANSWER: Increasing the training window from 3 months to 8 months impacted the accuracy of the algprithm.
+  ANSWER: Increasing the training window from 3 months to 8 months impacted the accuracy of the algprithm.
 
 * What impact resulted from increasing or decreasing either or both of the SMA windows?
 
-ANSWER: Upon increasing the SMA short window from 4 to 50, the macro avg accuracy score dropped from .82 to .31 and the weighted average from .77 to .38  
+  ANSWER: Upon increasing the SMA short window from 4 to 50, the macro avg accuracy score dropped from .82 to .31 and the weighted average from .77 to .38  
 
 * Choose the set of parameters that best improved the trading algorithm returns.
 
-For the SVM Model, it performs better with SMA Windows of 4 and 100 days and training window of 3 months
+  For the SVM Model, it performs better with SMA Windows of 4 and 100 days and training window of 3 months
 
 <img width="589" alt="Screen Shot 2021-07-11 at 8 29 30 PM" src="https://user-images.githubusercontent.com/80144026/125226948-d7dcd100-e286-11eb-93f4-73d9dcdd8b0d.png">
 
-For the Logistic Regression, the trading algorithm perfoms better with SMA Windows of 4 and 100 and a longer training window, in this case I used 8 months.
+  For the Logistic Regression, the trading algorithm perfoms better with SMA Windows of 4 and 100 and a longer training window, in this case I used 8 months.
 
 <img width="589" alt="Screen Shot 2021-07-11 at 8 34 10 PM" src="https://user-images.githubusercontent.com/80144026/125227253-67827f80-e287-11eb-96cf-50bb006f20c8.png">
 
