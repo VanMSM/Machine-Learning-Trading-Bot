@@ -26,11 +26,11 @@ The speed of these transactions gave the firm a competitive advantage early on. 
 
 BASE MODEL PLOT:
 
-<img width="433" alt="Screen Shot 2021-07-11 at 7 25 31 PM" src="https://user-images.githubusercontent.com/80144026/125224545-ad891480-e282-11eb-8b21-af42760801ab.png">
+<img width="590" alt="Screen Shot 2021-07-11 at 7 25 31 PM" src="https://user-images.githubusercontent.com/80144026/125224545-ad891480-e282-11eb-8b21-af42760801ab.png">
 
 NEW MACHINE LEARNING MODEL PLOT
 
-<img width="413" alt="Screen Shot 2021-07-11 at 7 31 22 PM" src="https://user-images.githubusercontent.com/80144026/125224562-b679e600-e282-11eb-8288-0435cf97f9ae.png">
+<img width="590" alt="Screen Shot 2021-07-11 at 7 31 22 PM" src="https://user-images.githubusercontent.com/80144026/125224562-b679e600-e282-11eb-8288-0435cf97f9ae.png">
 
 Analysis:
 
