@@ -55,9 +55,9 @@ For the SVM Model, it performs better with SMA Windows of 4 and 100 days and tra
 
 For the Logistic Regression, the trading algorithm perfoms better with SMA Windows of 4 and 100 and a longer training window, in this case I used 8 months.
 
-<img width="558" alt="Screen Shot 2021-07-11 at 8 34 10 PM" src="https://user-images.githubusercontent.com/80144026/125227253-67827f80-e287-11eb-96cf-50bb006f20c8.png">
+<img width="589" alt="Screen Shot 2021-07-11 at 8 34 10 PM" src="https://user-images.githubusercontent.com/80144026/125227253-67827f80-e287-11eb-96cf-50bb006f20c8.png">
 
-<img width="508" alt="Screen Shot 2021-07-11 at 8 34 17 PM" src="https://user-images.githubusercontent.com/80144026/125227263-6b160680-e287-11eb-99a9-180884847ddc.png">
+<img width="589" alt="Screen Shot 2021-07-11 at 8 34 17 PM" src="https://user-images.githubusercontent.com/80144026/125227263-6b160680-e287-11eb-99a9-180884847ddc.png">
 
 
 ---
