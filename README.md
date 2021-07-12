@@ -1,6 +1,9 @@
 
 # MACHINE LEARNING TRADING BOT
 
+
+![ai-trading](https://user-images.githubusercontent.com/80144026/125236270-88070580-e298-11eb-8fd2-929fce6689a4.png)
+
 ___
 
 ## Background
